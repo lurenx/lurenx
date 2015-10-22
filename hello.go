@@ -1,5 +1,7 @@
 package hello
 
-func world() {
+import "fmt"
+
+func World() {
 	fmt.Printf("Hello, world.\n")
 }
